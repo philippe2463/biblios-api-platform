@@ -63,6 +63,8 @@ importers:
       eslint-config-next:
         specifier: ^14.2.5
         version: 14.2.5(eslint@8.57.0)(typescript@5.5.4)
+      cross-spawn:	
+        Version: >= 7.0.5  
       tailwindcss:
         specifier: ^3.4.7
         version: 3.4.7
